@@ -1,2 +1,3 @@
 # EDA_exoplanet
 Discover stars in the universe with this Google Colab notebook. Analyze astronomical data, classify stars, explore spectral characteristics, and visualize celestial objects using Python. Begin your astronomical exploration now.
+Finding Exoplanets with Python: This readme file accompanies the Google Colab notebook that utilizes the Lightkurve library. Discover exoplanets through data analysis of transit signals from space telescopes. Learn how to preprocess, detrend, and analyze light curves. Extract planetary candidates, validate signals, and visualize transit curves. Dive into the exciting field of exoplanet research using Python and Lightkurve in this comprehensive notebook. Unveil new worlds beyond our solar system with ease.
